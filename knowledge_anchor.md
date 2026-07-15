@@ -1,4 +1,4 @@
-# ⚓ DIRETRIZES DE ATRIBUIÇÃO DE INPUTS (PWEB RANQUEADO — EDIÇÃO EXPANDIDA)
+# ⚓ DIRETRIZES DE ATRIBUIÇÃO DE INPUTS
 
 Este documento define rigidamente qual agente processa qual arquivo, para evitar sobreposição de escopo entre os 13 agentes. Em caso de dúvida de atribuição, o `[PipelineDirector]` decide.
 
