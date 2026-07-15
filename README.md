@@ -1,4 +1,4 @@
-# 🚀 PWEB Ranqueado v2.1: Ultra Premium AI Framework (Edição Expandida e Auditada)
+# 🚀 PWEB Ranqueado v2.1 Premium
 
 O **PWEB Ranqueado** é um framework de engenharia de prompt multi-agente para a era do SEO tradicional, GEO (*Generative Engine Optimization*) e AEO (*Answer Engine Optimization* — citação em respostas de IA), com UX/CRO integrado.
 
