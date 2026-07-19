@@ -65,19 +65,29 @@ Sugestões bem-vindas: novos módulos condicionais, novos checklists de UX/SEO, 
 
 ## 🤝 Apoio ao projeto
 
-```
+Se esta ferramenta ajudou você, é possível apoiar voluntariamente a manutenção e evolução do projeto.
+
+```txt
 Pix: doacoes@produtoraweb.com
 Cripto: 0xEd46dADa43cb7b4e4D753D631B4E99002530D780
 ```
+
+---
 
 ## 🛡️ Aviso legal
 
 Use com responsabilidade, revise os prompts antes de enviar e valide alterações importantes antes de publicar qualquer projeto.
 
-## 📄 Licença
-
-Distribuído sob **GNU General Public License v3.0 (GPL-3.0)**. Consulte `LICENSE`.
-
 ---
 
-Desenvolvido por ProdutoraWeb.com. 🚀
+## 📄 Licença
+
+Este projeto é distribuído sob a licença **GNU General Public License v3.0 (GPL-3.0)**.
+
+Você pode usar, estudar, modificar e redistribuir este projeto, desde que qualquer versão modificada ou redistribuída também mantenha o código aberto sob os termos da GPL-3.0.
+
+Consulte o arquivo `LICENSE` para mais detalhes.
+
+---
+Desenvolvido por ProdutoraWeb.com para revolucionar estratégias de busca orgânica e visibilidade digital. 🚀
+
